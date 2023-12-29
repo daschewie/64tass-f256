@@ -257,7 +257,7 @@ const struct cpu_s c65c02 = {
     alias_c65c02,
     0x1848001,
     83,
-    0xffff,
+    0xffffff,
     45,
     -1
 };
